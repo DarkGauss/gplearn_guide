@@ -1,5 +1,7 @@
 # gplearn_guide
 
+# What is a genetic program?
+https://gplearn.readthedocs.io/en/stable/intro.html
 
 
 # Installation
